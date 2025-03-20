@@ -62,6 +62,19 @@ if you use this software for academic purposes, please cite it like this:
 Orekhov, B. (2025). Replacement u with v in Latin (Version 1.0.1) [Computer software]. https://github.com/nevmenandr/replace_u_with_v DOI: 10.5281/zenodo.15061592
 ```
 
+```
+@software{Orekhov_Replacement_u_with_2025,
+author = {Orekhov, Boris},
+license = {GPL-3.0+},
+month = mar,
+title = {{Replacement u with v in Latin}},
+url = {https://github.com/nevmenandr/replace_u_with_v},
+version = {1.0.1},
+year = {2025}
+}
+```
+
+
 ## See also
 
 * [Vindolanda: a font that reproduces old Roman cursive](https://nevmenandr.github.io/vindolanda/)
