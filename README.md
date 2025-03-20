@@ -2,7 +2,8 @@
 
 # Replacement u with v in Latin
 
-![latin](https://img.shields.io/badge/latin-language-blue)
+![latin](https://img.shields.io/badge/latin-language-blue) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15061593.svg)](https://doi.org/10.5281/zenodo.15061593)
+
 
 ## Pre-notice
 
