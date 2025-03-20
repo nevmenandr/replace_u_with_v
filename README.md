@@ -32,7 +32,7 @@ Ueni, uidi, uici.
 Ubi sunt qui ante nos fuerunt?
 Quod erat demonstrandum.
 Audire est credere.
-Ubi est veritas?
+Ubi est ueritas?
 Sic transit gloria mundi.
 Uxor et uxor.
 ```
