@@ -10,7 +10,7 @@ The name of the Perl programming language is similar to the name of a pearl, alt
 
 ## How to Use the Script
 
-1. Create input file: Create a text file (e.g., `input.txt`) with the Latin text you want to process.
+1. Create input file: create a text file (e.g., `input.txt`) with the Latin text you want to process.
 
 2. Run the [script](./uv.pl): Open your terminal or command prompt and navigate to the directory where you saved the script and input file. Run the script using the following command:
 
