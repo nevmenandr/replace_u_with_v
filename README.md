@@ -1,4 +1,4 @@
-![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
+[![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)](https://github.com/search?q=owner%3Anevmenandr+lang%3APerl+&type=repositories)
 
 # Replacement u with v in Latin
 
@@ -51,3 +51,7 @@ Uxor et vir.
 ```
 
 Repository [contains](./input.txt) a book by M. A. Lucan written with u taken from [here](https://www.thelatinlibrary.com/lucan/lucan2.shtml) and a [converted text](./input_v.txt) with a script.
+
+## See also
+
+[Vindolanda: a font that reproduces old Roman cursive](https://nevmenandr.github.io/vindolanda/)
