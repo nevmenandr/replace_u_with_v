@@ -64,4 +64,5 @@ Orekhov, B. (2025). Replacement u with v in Latin (Version 1.0.1) [Computer soft
 
 ## See also
 
-[Vindolanda: a font that reproduces old Roman cursive](https://nevmenandr.github.io/vindolanda/)
+* [Vindolanda: a font that reproduces old Roman cursive](https://nevmenandr.github.io/vindolanda/)
+* [Study of Huysmans' Latin](https://github.com/nevmenandr/huysmans)
