@@ -1,0 +1,38 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Replacement u with v in Latin
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Boris
+    family-names: Orekhov
+    email: nevmenandr@gmail.com
+    affiliation: HSE University
+    orcid: 'https://orcid.org/0000-0002-9099-0436'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15061592
+repository-code: 'https://github.com/nevmenandr/replace_u_with_v'
+abstract: >-
+  Latin language has a long history, and in different
+  centuries it was written differently, in particular, in
+  ancient times it did not have a lowercase letter v, and
+  only the letter u was used everywhere with exception for
+  uppercase. Modern readers are used to reading texts with v
+  in non-syllabic position. This code replaces u with v in
+  non-syllabic positions and makes the text presented
+  according to ancient rules more familiar to the eye of a
+  modern reader. The script works with both lowercase and
+  uppercase letters. U changes to v in those cases where u
+  is non-syllabic. This is the position before a vowel not
+  after a consonant.
+keywords:
+  - 'perl script, text tools, latin language'
+license: GPL-3.0+
+commit: a0be8678f5dd9f28e42c367176aba82a337a687a
+version: 1.0.1
+date-released: '2025-03-20'
