@@ -50,4 +50,4 @@ Sic transit gloria mundi.
 Uxor et vir.
 ```
 
-Repository contains a book by M. A. Lucan written with u taken from [here](https://www.thelatinlibrary.com/lucan/lucan2.shtml) and a converted text with a script.
+Repository [contains](./input.txt) a book by M. A. Lucan written with u taken from [here](https://www.thelatinlibrary.com/lucan/lucan2.shtml) and a [converted text](./input_v.txt) with a script.
