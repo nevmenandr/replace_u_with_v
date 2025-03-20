@@ -1,6 +1,8 @@
-[![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)](https://github.com/search?q=owner%3Anevmenandr+lang%3APerl+&type=repositories)
+[![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)](https://github.com/search?q=owner%3Anevmenandr+lang%3APerl+&type=repositories) 
 
 # Replacement u with v in Latin
+
+![latin](https://img.shields.io/badge/latin-language-blue)
 
 ## Pre-notice
 
