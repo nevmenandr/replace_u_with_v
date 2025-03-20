@@ -18,6 +18,10 @@ The name of the Perl programming language is similar to the name of a pearl, alt
 
 The output file name will be constructed by appending `_v` to the base name before the extension. E.g. if your input file is named `input.txt`, then after running the script, you will get an output file named `input_v.txt`. The contents of this output file will reflect the changes made by replacing "u" with "v" as previously described.
 
+## Rules
+
+U changes to V in those cases where U is non-syllabic. This is the position before a vowel not after a consonant.
+
 ## Example
 
 Here’s an example of an input file with various Latin phrases:
