@@ -54,6 +54,14 @@ Uxor et vir.
 
 Repository [contains](./input.txt) a book by M. A. Lucan written with u taken from [here](https://www.thelatinlibrary.com/lucan/lucan2.shtml) and a [converted text](./input_v.txt) with a script.
 
+## Citation info
+
+if you use this software for academic purposes, please cite it like this:
+
+```
+Orekhov, B. (2025). Replacement u with v in Latin (Version 1.0.1) [Computer software]. https://github.com/nevmenandr/replace_u_with_v DOI: 10.5281/zenodo.15061592
+```
+
 ## See also
 
 [Vindolanda: a font that reproduces old Roman cursive](https://nevmenandr.github.io/vindolanda/)
