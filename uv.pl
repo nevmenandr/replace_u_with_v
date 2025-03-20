@@ -13,8 +13,8 @@ sub replace_u_with_v {
 
 
     # Handle uppercase 'U'
-    $text =~ s/(?<![bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ])U(?=[aeiou])(?=w)/V/g;
-    $text =~ s/\bU(?=[aeiou])/V/g;
+    $text =~ s/(?<![bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ])U(?=[aeiouAEIOU])(?=w)/V/g;
+    $text =~ s/\bU(?=[aeiouAEIOU])/V/g;
 
     return $text;
 }
