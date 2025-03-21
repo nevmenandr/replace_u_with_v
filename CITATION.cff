@@ -12,7 +12,7 @@ authors:
     family-names: Orekhov
     email: nevmenandr@gmail.com
     affiliation: HSE University
-    orcid: 'https://orcid.org/0000-0002-9099-0436'
+    orcid: '0000-0002-9099-0436'
 identifiers:
   - type: doi
     value: 10.5281/zenodo.15061592
